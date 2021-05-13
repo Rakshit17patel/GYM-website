@@ -1,0 +1,2 @@
+# GYM-website
+Website gives an overview of our gym. Akshar Fitness has recently started online gym sessions due to COVID-19 pandemic. User can get idea about our gym and they can contact us. We have provided a form if user is interested in online GYM session one can fill the form after registration on the website. There is an admin portal which has access to the dashboard from there marketing team can contact interested user and explain them about plans, timings and their requirement. This website is developed using HTML, CSS BOOTSTRAP, JS, PHP, MySql database.
